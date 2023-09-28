@@ -25,16 +25,15 @@ Automatic Image caption generation is the process of generating textual descript
 
 
 # Publication
-1. P. Choudhury, P. Guha, S. Nandi  “Image Caption Synthesis for Low Resource Assamese Language using Bi-LSTM with Bilinear Attention.” 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), 2023 (Accepted)
-2. Y. Aggarwal, P. Choudhury, P. Guha “Face Detection in Challenging Scenes with a Customized Backbone” 8th International Conference on Computer Vision & Image Processing (CVIP-2023), 2023 (Accepted)
+1. Y. Aggarwal, P. Choudhury, P. Guha “Face Detection in Challenging Scenes with a Customized Backbone” 8th International Conference on Computer Vision & Image Processing (CVIP-2023), 2023 (Accepted)
 
 # Contact
 
-Address: CLST Central Library 3rd floor,
+Address: Multimedia Analytics Lab, EEE Department,
 
 IIT Guwahati, 
 
 Assam-781039
 
-Email : pankajchoudhury@iitg.ac.in
+Email : yogesh_aggarwal@iitg.ac.in
 
