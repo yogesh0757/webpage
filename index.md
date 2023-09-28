@@ -4,11 +4,11 @@ layout: default
 
 **Research Scholar**
 
-<p>Centre For Lingustic Science and Technology</p>
+<p>Electrical and Electronics Engineering Department</p>
 
 IIT Guwahati
 
-_Email: pankajchoudhury@iitg.ac.in_
+_Email: yogesh_aggarwal@iitg.ac.in_
 
 # About me
 
