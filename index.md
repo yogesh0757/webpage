@@ -17,7 +17,7 @@ Hello, I’m Yogesh Aggarwal currently pursuing my PhD from Electrical and Elect
 # Education
 - Ph.D., EEE | Indian Institue of Technology Guwahati 							       		
 - M.Tech., DTI	| SGSITS, Indore (_May 2017_)	 			        		
-- B.Tech., AEI | Dehradun institute of Technology, Guwahati (_July 2013_)
+- B.Tech., AEI | Dehradun institute of Technology, Dehradun (_July 2013_)
 
 # Research
 
