@@ -21,7 +21,7 @@ Hello, I’m Yogesh Aggarwal currently pursuing my PhD from Electrical and Elect
 
 # Research
 
-Automatic Image caption generation is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. Given a input image the model generates a natural language description of the image. To generate the description the model use Computer vision to understand the image and later with the help of Natural Language Processing generates semantically and syntactically correct descriptions. My research goal is to generate captions in low resource Assamese language. I am also interested in other topics like visual question answering, face detection etc.
+Face detection is a necessary component in many computer vision applications. However, its performance often degrades due to challenging scenarios involving occlusions, facial pose variations, expression changes, illumination effects etc. Recent onset of pandemics have also enforced the widespread use of face masks. This has also given rise to the problem of masked face detection. Earlier approached to face detection have used handcrafted features with classical machine learning techniques. Most recent methodologies have adopted the use of deep learning framework. The later has shown more promising results on most challenging scenarios. However, the proposals in deep learning framework involve large number of parameters and are quite computation intensive. Thus, my research goal is develop light-weight networks for reducing the inference time.
 
 
 # Publication
