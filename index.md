@@ -12,12 +12,12 @@ _Email: yogesh_aggarwal@iitg.ac.in_
 
 # About me
 
-Hello, I’m Pankaj Choudhury currently pursuing my PhD from Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is “Automatic Image Caption generation in Assamese Language”. My thesis supervisors are Dr. Prithwijit Guha and Prof. Sukumar Nandi.    
+Hello, I’m Yogesh Aggarwal currently pursuing my PhD from Electrical and Electronics Engineering Department, IIT Guwahati. My research topic is “Face Detection in Challenging Scenarios”. My thesis supervisors are Dr. Prithwijit Guha.    
 
 # Education
-- Ph.D., CLST | Indian Institue of Technology Guwahati 							       		
-- M.Tech., CSE	| Assam Univeristy, Silchar (_May 2016_)	 			        		
-- B.Tech., CSE | Don Bosco College of Engg & Tech, Guwahati (_July 2012_)
+- Ph.D., EEE | Indian Institue of Technology Guwahati 							       		
+- M.Tech., DTI	| SGSITS, Indore (_May 2017_)	 			        		
+- B.Tech., AEI | Dehradun institute of Technology, Guwahati (_July 2013_)
 
 # Research
 
